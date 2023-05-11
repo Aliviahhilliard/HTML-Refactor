@@ -12,6 +12,7 @@ body {
 
 /* Style the header element */
 header {
+    text-align: center;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -40,13 +41,16 @@ header div {
 
 /* Style an unordered list inside the div in the header */
 header div ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
     list-style-type: none;
 }
 
 /* Style the list items inside the unordered list in the header */
 header div ul li {
-    display: inline-block;
-    margin-left: 25px;
+    float: left;
+    margin-left: 10px;
 }
 
 /* Style links throughout the website */

@@ -4,9 +4,17 @@ Project Description and purpose.
 
 ![screenshot](./screenshot.png)
 
-## Live URL
+## https://aliviahhilliard.github.io/HTML-Refactor/
 
+```
 Add live URL where the application is deployed.
+```
+## User Story
+
+```
+Customer wanted a codebase that follows accessibility standards so that their site is optimized for search engines.
+I am adding links, HTML, and CSS to rework a demo site to make the links work and to make the site accessible.
+```
 
 ## Technical Acceptance Criteria
 
@@ -32,19 +40,3 @@ Add live URL where the application is deployed.
 - Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 - Repository contains multiple descriptive commit messages.
 - Repository contains quality README file with description, screenshot, and link to deployed application.
-
-## Getting Started
-
-Instructions on how to clone and run the project locally.
-
-## Usage
-
-Instructions on how to use the application.
-
-## Credits
-
-Credits for any resources or tutorials used in the project.
-
-## License
-
-Add license if applicable.
